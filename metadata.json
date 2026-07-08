@@ -1,0 +1,8 @@
+{
+  "name": "Simple QR Payment",
+  "description": "A minimalist black and white QR payment selector with animated emojis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
